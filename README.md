@@ -22,6 +22,6 @@ Documenting my transition from Science to Tech, one day at a time.
 Building a strong foundation in Python to become a job-ready Backend Developer. Open to roles in Tech, HealthTech, FinTech, and general Software Development.
 
 🚀 Goal
-To go beyond basics — build real-world projects, solve real business problems, and land my first Developer role.
+To go beyond basics, build real-world projects, solve real business problems, and land my first Developer role.
 
 Follow my journey!

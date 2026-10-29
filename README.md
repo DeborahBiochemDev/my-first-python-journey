@@ -1,4 +1,4 @@
-# my-first-python-journey
+# My First Python Journey
 Hello! I am Deborah, a Biochemistry graduate transitioning into Tech.
 
 This is Day 1 of my journey to become a Developer.

@@ -5,12 +5,20 @@ Documenting my transition from Science to Tech, one day at a time.
 
 📈 My Progress
 
-| Day | Topic | File | Status |
-|-----|-------|------|--------|
-| Day 01 | Python Introduction | `Day_01_Introduction.md` | ✅ Done |
-| Day 02 | Data Types & Variables | `Day_2_Data_Types.py` | ✅ Done |
-| Day 03 | Loops (For & While) | `Day_3_Loops.py` | ✅ Done |
-| Day 04 | Lists & List Methods | `Day_4_Lists.py` | 🔄 Next |
+| Topic | File |
+| --- | --- |
+| Python Introduction | Day_01_Introduction.py |
+| Data Types & Variables | Day_2_Data_Types.py |
+| Loops (For & While) | 
+Day_3_Loops.py |
+| Lists & List Methods |
+Day_4_Lists.py |
+| Dictionaries |
+Day_5_Dictionary.py |
+| Functions |
+Day_6_Functions.py |
+| Strings 
+| Day_7_Strings.py |
 
 🛠️ Tech Stack I'm Building
 - **Language:** Python
